@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-translate": "^3.592.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
